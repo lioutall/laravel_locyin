@@ -1,6 +1,6 @@
 ## 关于 laravel_locyin
 
-《Flutter 实战开发旅行社交手机APP》Laravel 服务器端，各目录和文件详细说明请查看[ Laravel 中文文档](http://https://learnku.com/docs/laravel/8.x)。
+《Flutter 实战开发旅行社交手机APP》Laravel 服务器端，各目录和文件详细说明请查看[ Laravel 中文文档](https://learnku.com/docs/laravel/8.x)。
 
 ## 安装
 安装拓展包
